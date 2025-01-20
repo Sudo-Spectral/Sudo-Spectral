@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Sudo-Spectral
-- 👀 I’m interested in Computer Science (of course), Mathematics and Engineering!
-- 🌱 I’m currently learning Engineering, Python, C# and Java! :D
-- 💞️ I’m looking to collaborate on absolutely any project that uses any of the languages above, I'll do my best to keep up :)
-- 📫 How to reach me: Email: cookiedev06@gmail.com
+- 🌱 I’m currently learning Engineering, Python, C# and Java
+- 📫 How to reach me: Email: uonz@uonz.co.uk
 
 <!---
 Sudo-Spectral/Sudo-Spectral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
